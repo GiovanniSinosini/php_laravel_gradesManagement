@@ -21,7 +21,7 @@
 
 ![](images/createGrade.png)
 
-![](images/editGrade.png)
+![](images/EditGrade.png)
 
 
 ---
