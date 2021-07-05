@@ -26,4 +26,27 @@ Software developed with authentication and ability to manage courses, students, 
 * HTML5 + CSS3
 
 ## User interface
-[Software interface](docs/interface.md)
+## Login page
+![](docs/images/login.png)
+
+## Student page
+![](docs/images/students.png)
+
+![](docs/images/editStudent.png)
+
+## Course page
+![](docs/images/courses.png)
+
+![](docs/images/editCourses.png)
+
+## Teacher page
+![](docs/images/teachers.png)
+
+![](docs/images/editTeacher.png)
+
+## Grade page
+![](docs/images/grades.png)
+
+![](docs/images/createGrade.png)
+
+![](docs/images/EditGrade.png)
